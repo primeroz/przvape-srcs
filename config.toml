@@ -1,0 +1,18 @@
+baseurl = "http://example.org/"
+title = "My New Hugo Site"
+languageCode = "en-us"
+theme = "hugo-creative-portfolio-theme"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "Products"
+  url = "products/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
