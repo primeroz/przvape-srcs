@@ -6,7 +6,7 @@ baseurl = "https://primeroz.github.io/przvape/"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = ""
+  url = "home"
 
   [[params.navlinks]]
   name = "Products"
