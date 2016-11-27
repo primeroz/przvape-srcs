@@ -9,6 +9,10 @@ baseurl = "https://primeroz.github.io/przvape/"
   url = "home"
 
   [[params.navlinks]]
+  name = "101"
+  url = "101/"
+
+  [[params.navlinks]]
   name = "Products"
   url = "products/"
 
